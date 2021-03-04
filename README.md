@@ -1,6 +1,8 @@
 # Gifs App
 
-Cree esta aplicación para iniciar a utilizar react
+Creé esta aplicación para iniciar a utilizar react
+
+I build this app to start learning how to use react 
 
 ## Available Scripts
 
